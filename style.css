@@ -103,6 +103,7 @@ body {
 .img2{
     margin-top: 100px;
     cursor: pointer;
+    width: 250px;
 }
 
 
@@ -114,4 +115,8 @@ body {
 
 .none{
     display: none;
+}
+
+.big{
+    font-size: 110px;
 }
